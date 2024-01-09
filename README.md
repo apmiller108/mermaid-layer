@@ -34,3 +34,5 @@ erDiagram
 #+RESULTS:
 [[file:test.png]]
 ```
+
+See also https://mermaid.js.org/intro/
